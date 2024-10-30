@@ -8,5 +8,9 @@
 <body>
     <h1>hello word</h1>
     <h2>sub judul</h2>
+    <h3>sub judul</h3>
+    <h4>sub judul</h4>
+    <h5>sub judul</h5>
+    <h6>sub judul</h6>
 </body>
 </html>
